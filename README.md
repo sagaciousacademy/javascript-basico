@@ -21,4 +21,4 @@ Curso de Javascript Básico da B7WEB.
     document.write("<img src='https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png' />");
 
 
-## Carregando uma imagem na tela via javascriptdddvvvv
+## Carregando uma imagem na tela via 
