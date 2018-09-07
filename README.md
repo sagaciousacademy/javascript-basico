@@ -2,23 +2,12 @@
 
 ## Javascript Básico
 
-Curso de Javascript Básico da B7WEB.
+Curso de Javascript da B7WEB - https://phpdozeroaoprofissional.com.br/
 
-## Execução via campo de URL do navegador para abertura de janela com o resultado correspondente.
+## Acesse o meu Curriculum
 
-    javascript:alert("Marcelo")
+    http://bit.ly/curriculum-marcelo
 
-## Execução console do navegador para abertura de janela com o resultado correspondente.
+## Acesse o meu Portfólio
 
-    alert("Marcelo")
-
-## Para escrever o resultado na tela
-
-    document.write("Esse Teste");
-
-## Carregando uma imagem na tela via javascript
-
-    document.write("<img src='https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png' />");
-
-
-## Paragrafo
+    http://bit.ly/portfolio-marcelo
